@@ -1,3 +1,5 @@
+**/target/
+*/target/*
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -23,3 +25,15 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+*.iml
+.idea
+target
+bower_components
+node_modules
+node
+*.log
+asciidoctor.css
+README.html
+built
+dump.rdb
